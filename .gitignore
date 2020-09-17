@@ -11,7 +11,7 @@
 # Generated files
 bin/
 gen/
-
+/.idea
 # Gradle files
 .gradle/
 build/
@@ -82,3 +82,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+.gitignore
+build.gradle
+proguard-rules.pro
